@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "335373002903",
+    "firebase_url": "https://national-ag.firebaseio.com",
+    "project_id": "national-ag",
+    "storage_bucket": "national-ag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335373002903:android:d6ae547bbadb5e876d61d2",
+        "android_client_info": {
+          "package_name": "com.nas.flutter_customer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335373002903-l8auemhe257llu022o4vdp07lbd8ed4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHYQZ8dHggmIj7wr2sfrUYCcnaI_aV_Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335373002903-l8auemhe257llu022o4vdp07lbd8ed4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335373002903:android:10fb8416242764ce",
+        "android_client_info": {
+          "package_name": "com.natagro.procurementanddespatch2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335373002903-l8auemhe257llu022o4vdp07lbd8ed4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHYQZ8dHggmIj7wr2sfrUYCcnaI_aV_Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335373002903-l8auemhe257llu022o4vdp07lbd8ed4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
